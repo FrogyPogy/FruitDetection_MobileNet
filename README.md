@@ -8,6 +8,4 @@
 
 
 > [!NOTE]
-> Want to see other computer vision projects? https://github.com/FrogyPogy/Mask-RCNN
-> Want check my paper for this project? bit.ly/45p6BfV
-> Link to the sample section: [Link Text](bit.ly/45p6BfV).
+> Want to see other computer vision projects? https://github.com/FrogyPogy/Mask-RCNN check my Paper for this project https://drive.google.com/drive/folders/1oEmiHNtsKk2kmrZNwS7d-d6-rv8IUXNH?usp=sharing.
